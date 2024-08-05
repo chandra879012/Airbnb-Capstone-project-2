@@ -53,13 +53,6 @@ Ensure you have the following installed:
 - Python 3.11.7
 - Jupyter Notebook
 
-### Installing Dependencies
-
-Install the necessary Python libraries using pip:
-
-```bash
-pip install pandas numpy matplotlib seaborn
-
 ## Contribute
 
 If you'd like to contribute, feel free to contact me here:
